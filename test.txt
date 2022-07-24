@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 111111
 这是合并之后的内容
 version1
 version2
+=======
+1232343543454
+dfdfdfdfdfd
+kfdfdfdfdfdfdfdrrrr
+>>>>>>> 92afd863b5c07d201d5776c637ead513d7cd81e7
